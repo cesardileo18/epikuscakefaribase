@@ -90,7 +90,7 @@ const Checkout = () => {
     if(loading) {
         return <h1>SE esta generando su orden...</h1>
     }
-
+    // console.log('buyer :>> ', buyer);
     return (
         <div>
             <h1>Checkout</h1>
