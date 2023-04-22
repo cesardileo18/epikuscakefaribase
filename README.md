@@ -12,7 +12,7 @@ REACT_APP_authDomain=value.\
 REACT_APP_projectId=value.\
 REACT_APP_storageBucket=value.\
 REACT_APP_messagingSenderId=value.\
-REACT_APP_appId=value.\
+REACT_APP_appId=value
 
 ## Available Scripts
 In the project directory, you can run:
