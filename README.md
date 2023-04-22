@@ -4,6 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Install Dependencies First
 you must first run the install command before the next step
 ### `npm install`
+## Environment Variables
+file.env in Firebase
+example:
+REACT_APP_apiKey=value
+REACT_APP_authDomain=value
+REACT_APP_projectId=value
+REACT_APP_storageBucket=value
+REACT_APP_messagingSenderId=value
+REACT_APP_appId=value
 
 ## Available Scripts
 In the project directory, you can run:
